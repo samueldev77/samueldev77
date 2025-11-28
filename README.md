@@ -1,52 +1,32 @@
-<h2 align="left">LoopCode By Samuel S.</h2>
+👋 Hey! Eu sou o Samuel S.
+🚀 Desenvolvedor Front-End | Criador de experiências web modernas e funcionais
 
-<p>
-  A Loop Code é uma empresa especializada em desenvolvimento web. Criamos sites, plataformas e interfaces que unem estética, funcionalidade e desempenho. Nosso foco é transformar ideias em experiências digitais claras, fluidas e agradáveis de usar.
+Sou apaixonado por transformar ideias em interfaces elegantes, acessíveis e rápidas.
+Trabalho principalmente com HTML, CSS, JavaScript, bibliotecas modernas como React + Chakra UI e serviços como Firebase para entregar apps reais, bem estruturados e escaláveis.
 
-Trabalhamos para que cada projeto seja escalável, intuitivo e alinhado às necessidades reais de pessoas e negócios.
+Gosto de construir telas fluídas, componentes modulares, animações suaves e códigos limpos. Tudo sempre em constante evolução — igual a mim. 😄
 
-Construindo o futuro da web.
-Sempre em loop. 🌀
-</p>
+🧠 Minhas especialidades
 
-###
+🎨 HTML5 & CSS3 — interfaces responsivas, limpas e intuitivas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+⚡ JavaScript (ES6+) — lógica, interatividade e boas práticas
 
-###
+⚛️ React — aplicações modernas, reutilizáveis e performáticas
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+🎛️ Chakra UI — design system elegante, rápido e responsivo
 
-###
+📦 NPM — organização, build, automações e gerenciamento de pacotes
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+🔥 Firebase — autenticação, Firestore, Storage e deploy
 
-###
+🧹 Código modular, componentes reutilizáveis e foco total na experiência do usuário
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+Construindo o futuro da web. Sempre em loop. 🌀
 
-###
+📊 Minhas estatísticas
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" /> </div>
+🛠️ Tecnologias que uso no dia a dia
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-plain.svg" height="35"/> </div>
+🌐 Onde me encontrar
+<div align="left"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" /> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" /> </div>
