@@ -1,31 +1,21 @@
-👋 Hey! Eu sou o Samuel S.
-🚀 Desenvolvedor Front-End | Criador de experiências web modernas e funcionais
-
-Sou apaixonado por transformar ideias em interfaces elegantes, acessíveis e rápidas.
-Trabalho principalmente com HTML, CSS, JavaScript, bibliotecas modernas como React + Chakra UI e serviços como Firebase para entregar apps reais, bem estruturados e escaláveis.
-
-Gosto de construir telas fluídas, componentes modulares, animações suaves e códigos limpos. Tudo sempre em constante evolução — igual a mim. 😄
-
-🧠 Minhas especialidades
-
-🎨 HTML5 & CSS3 — interfaces responsivas, limpas e intuitivas
-
-⚡ JavaScript (ES6+) — lógica, interatividade e boas práticas
-
-⚛️ React — aplicações modernas, reutilizáveis e performáticas
-
-🎛️ Chakra UI — design system elegante, rápido e responsivo
-
-📦 NPM — organização, build, automações e gerenciamento de pacotes
-
-🔥 Firebase — autenticação, Firestore, Storage e deploy
-
-🧹 Código modular, componentes reutilizáveis e foco total na experiência do usuário
+# 💫 About Me:
+Olá, meu nome é Samuel 🧑‍💻<br><br>🚀 - Sou Desenvolvedor Frontend e estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas, na Uniasselvi.<br>No meu dia-a-dia utilizo html, css, javascript, chakra ui, react e firebase<br>para construir sites e aplicações com rapidez, fluidez e responsividade. Atualmente<br>estou buscando evoluir cada vez mais meus conhecimentos através de estudo e prática com projetos reais.<br><br>Dentre as coisas que despertam meu interesse:<br><br>🧑‍💻 - Programação frontend (futuramente backend).<br>🧑‍🚀 - Evolução pessoal e profissional. (me encanta a ideia de viver uma vida com potência).<br>🎮 - Vídeo games.<br>🏍️ - Sou apaixonado por motos. <br>
 
 
-📊 Minhas estatísticas
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" /> </div>
-🛠️ Tecnologias que uso no dia a dia
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35"/> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-plain.svg" height="35"/> </div> <br/> <br/>
-🌐 Onde me encontrar
-<div align="left"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" /> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" /> </div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samueldev77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samueldev77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldev77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samueldev77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samueldev77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=samueldev77&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
